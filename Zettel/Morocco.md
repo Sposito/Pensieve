@@ -1,0 +1,3 @@
+Morocco is a #country in northern africa just at the meeting point in between the Atlantic ocean and the Medirranean Sea. Their currency is the Dirran and most spoken langauges are the Arabic, the Berber language and French, many merchants are capable of speaking english. Great part of the country is covered by the Saara desert.
+
+I visited morocco in December 2014 spend the whole month in there, spent most of time in Marrakesh, but also visited Agadir, an artists space called the "green donkey"
