@@ -1,0 +1,3 @@
+[submodule "Personal"]
+	path = Personal
+	url = git@github.com:Sposito/Pensive-Personal.git
