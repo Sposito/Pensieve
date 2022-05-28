@@ -1,0 +1,1 @@
+Linus Towalvds is a Finish software engineer know as father of the [[Linux]] OS and the version control software [[GIT]]

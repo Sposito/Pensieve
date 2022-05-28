@@ -2,8 +2,8 @@
 
 ## Image File Formats
 
-- [[BMP]]
-- [[PNG]]
-- [[JPEG]]
-- [[GIF]]
-- [[TIFF]]
+- ![[BMP]]
+- ![[PNG]]
+- ![[JPEG]]
+- ![[GIF]]
+- ![[TIFF]]

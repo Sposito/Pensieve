@@ -1,0 +1,1 @@
+Fedora is a [[linux]] distro  that exists since 2003, it was born from a community effort to maintain extra software for the Red Har Distro, hence the name (Fedora is a kind of hat).

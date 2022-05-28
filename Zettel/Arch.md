@@ -1,0 +1,1 @@
+Arch is  [[linux]] distribution focused on minalism and user control.

@@ -1,7 +1,7 @@
-#incomplete
+#incomplete #y1999
 # The Zen of Python
 
-The Zen of python is a series of statements written by Tim Peters in 1999
+The Zen of [[python]] is a series of statements written by Tim Peters in 1999
 ```
 >>> import this
 The Zen of Python, by Tim Peters
