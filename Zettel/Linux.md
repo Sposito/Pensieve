@@ -6,3 +6,6 @@ Distros:
 [[Ubuntu]]
 [[Arch]]
 [[manjaro]]
+
+Guides:
+https://linuxize.com/post/create-a-linux-swap-file/
