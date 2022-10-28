@@ -12,61 +12,55 @@ When looking at results, keep in mind:
     -   [Nutrition.gov](https://www.nutrition.gov/)
 from https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/
 ---
-Ref 31a - 177cm 72kg sedent;ario
+### Ref 31 anos - 177cm - 72kg - sedentário
 
 | Macronutriente        | Recommended Intake Per Day |
 | --------------------- | -------------------------- |
-| Carbohydrate          | 278 - 401 grams            |
-| Total Fiber           | 38 grams                   |
-| Protein               | 58 grams                   |
-| Fat                   | 55 - 96 grams              |
-| Saturated fatty acids | 0                          |
-| Trans fatty acids     | 0                          |
-| α-Linolenic Acid      | 1.6 grams                  |
-| Linoleic Acid         | 17 grams                   |
-| Dietary Cholesterol   | 0                          |
-| Total Water           | 3.7 liters                 |
+| Valor Energético      | 2467 kcal                  |
+| Carboidratos          | 278 - 401 grams            |
+| Fibras Totáis         | 38 grams                   |
+| Proteina              | 58 grams                   |
+| Gorduras Totais       | 55 - 96 grams              |
+| Gorduras Saturadas    | 0                          |
+| Gorduras Trans        | 0                          |
+| Ácido α-Linoleico     | 1.6 grams                  |
+| Ácido Linoleico       | 17 grams                   |
+| Colesterol            | 0                          |
+| Água                  | 3.7 liters                 |
 
-| Vitamin          | Recommended Intake Per Day | Tolerable UL Intake Per Day |
-| ---------------- | -------------------------- | --------------------------- |
-| Vitamin A        | 900 mcg                    | 3,000 mcg                   |
-| Vitamin C        | 90 mg                      | 2,000 mg                    |
-| Vitamin D        | 15 mcg                     | 100 mcg                     |
-| Vitamin B6       | 1.3 mg                     | 100 mg                      |
-| Vitamin E        | 15 mg                      | 1,000 mg                    |
-| Vitamin K        | 120 mcg                    | ND                          |
-| Thiamin          | 1.2 mg                     | ND                          |
-| Vitamin B12      | 2.4 mcg                    | ND                          |
-| Riboflavin       | 1.3 mg                     | ND                          |
-| Folate           | 400 mcg                    | 1,000 mcg                   |
-| Niacin           | 16 mg                      | 35 mg                       |
-| Choline          | 0.55 g                     | 3.5 g                       |
-| Pantothenic Acid | 5 mg                       | ND                          |
-| Biotin           | 30 mcg                     | ND                          |
-| Carotenoids      | NA                         | ND                          |
+| Vitamin           | Recommended Intake Per Day | Tolerable UL Intake Per Day |
+| ----------------  | -------------------------- | --------------------------- |
+| Vitamina A        | 900 mcg                    | 3,000 mcg                   |
+| Vitamina C        | 90 mg                      | 2,000 mg                    |
+| Vitamina D        | 15 mcg                     | 100 mcg                     |
+| Vitamina B6       | 1.3 mg                     | 100 mg                      |
+| Vitamina E        | 15 mg                      | 1,000 mg                    |
+| Vitamina K        | 120 mcg                    | ND                          |
+| Tiamina           | 1.2 mg                     | ND                          |
+| Vitamina B12      | 2.4 mcg                    | ND                          |
+| Riboflavina       | 1.3 mg                     | ND                          |
+| Folato            | 400 mcg                    | 1,000 mcg                   |
+| Niacina           | 16 mg                      | 35 mg                       |
+| Choline           | 0.55 g                     | 3.5 g                       |
+| Ácido Pantoleico  | 5 mg                       | ND                          |
+| Biotina           | 30 mcg                     | ND                          |
+| Carotenoides      | NA                         | ND                          |
 
 | Mineral       | Recommended Intake Per Day | Tolerable UL Intake Per Day |
 | ------------- | -------------------------- | --------------------------- |
-| Essential     |                            |                             |
-| Calcium       | 1,000 mg                   | 2,500 mg                    |
-| Chloride      | 2.3 g                      | 3.6 g                       |
-| Chromium      | 35 mcg                     | ND                          |
-| Copper        | 900 mcg                    | 10,000 mcg                  |
-| Fluoride      | 4 mg                       | 10 mg                       |
-| Iodine        | 150 mcg                    | 1,100 mcg                   |
-| Iron          | 8 mg                       | 45 mg                       |
-| Magnesium     | 420 mg                     | 350 mg                      |
-| Manganese     | 2.3 mg                     | 11 mg                       |
-| Molybdenum    | 45 mcg                     | 2,000 mcg                   |
-| Phosphorus    | 0.7 g                      | 4 g                         |
-| Potassium     | 3,400 mg                   | ND                          |
-| Selenium      | 55 mcg                     | 400 mcg                     |
-| Sodium        | 1,500 mg                   | ND                          |
-| Zinc          | 11 mg                      | 40 mg                       |
-| Non-Essential |                            |                             |
-| Arsenic       | NA                         | ND                          |
-| Boron         | NA                         | 20 mg                       |
-| Nickel        | NA                         | 1 mg                        |
-| Silicon       | NA                         | ND                          |
-| Sulfate       | NA                         | ND                          |
-| Vanadium      | NA                         | 1.8 mg                      |
+| Cálcio      | 1,000 mg                   | 2,500 mg                    |
+| Cloro       | 2.3 g                      | 3.6 g                       |
+| Cromo       | 35 mcg                     | ND                          |
+| Cobre       | 900 mcg                    | 10,000 mcg                  |
+| Fluor       | 4 mg                       | 10 mg                       |
+| Iodo        | 150 mcg                    | 1,100 mcg                   |
+| Ferro       | 8 mg                       | 45 mg                       |
+| Magnésio    | 420 mg                     | 350 mg                      |
+| Manganes    | 2.3 mg                     | 11 mg                       |
+| Molibdenio  | 45 mcg                     | 2,000 mcg                   |
+| Fósforo     | 0.7 g                      | 4 g                         |
+| Potássio    | 3,400 mg                   | ND                          |
+| Selenio     | 55 mcg                     | 400 mcg                     |
+| Sódio       | 1,500 mg                   | ND                          |
+| Zinco       | 11 mg                      | 40 mg                       |
+

@@ -1,13 +1,7 @@
-#produto-alimentício #ingredientes #valor-nutricional #contém-conservan #sem-ogm
+#produto-alimentício #ingredientes #valor-nutricional #contém-conservante  #sem-ogm
 
 ### Ingredientes:
 Água, grãos de soja, açúcar, suco concentrado de pêssego, maltodextrina, vitaminas (C, B3, B2, B6 e B12), mineral (zinco), estabilizantes: pectina e goma guar, acidulante ácido cítrico, regulador de acidez ácido málico, aromatizante, corantes naturais: urucum e carmim e edulcorante sucralose.
-
-### Informação Nutricional
-#produto-alimentício #ingredientes #valor-nutricional #contém-conservan #sem-ogm  
-  
-### Ingredientes:  
-Água, grãos de soja, açúcar, suco concentrado de pêssego, maltodextrina, vitaminas (C, B3, B2, B6 e B12), mineral (zinco), estabilizantes: pectina e goma guar, acidulante ácido cítrico, regulador de acidez ácido málico, aromatizante, corantes naturais: urucum e carmim e edulcorante sucralose.  
   
 ### Informação Nutricional  
 | Informação Nutricional   | Porção de 200ml  |  
@@ -32,8 +26,7 @@
 | Vitamina C               | 6.8 mg           |  
 | Zinco                    | 1.1 mg           |
   
-### Código de Barras  
-7894900087109
+### Info Produto:
+Código de Barras : 7894900087109
+Peso Líquido: 1L
 
-### Código de Barras
-7894900087109

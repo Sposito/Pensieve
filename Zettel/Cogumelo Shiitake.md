@@ -1,9 +1,10 @@
 #produto-alimentício #valor-nutricional 
 
+### Informação Nutricional
 | Informação Nutricional|Porção de 50g|
 | --- | --- |
 |Valor Energético | 170 kcal |
-|Carboidratow| 26.5g|
+|Carboidratos| 26.5g|
 |Proteína|9g|
 |Gorduras Totais|.5g|
 |Gorduras Trans|0g|
