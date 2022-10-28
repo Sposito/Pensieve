@@ -9,3 +9,7 @@ Distros:
 
 Guides:
 https://linuxize.com/post/create-a-linux-swap-file/
+
+Quick tips:
+![[disable-fn-key-mac-keyboard]]
+
