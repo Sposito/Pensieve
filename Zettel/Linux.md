@@ -2,7 +2,7 @@ Linux is an [[Unix]] based operating system created by [[Linus Towalvds]]
 
 Distros:
 [[Fedora]]
-[[debian]]
+[[Debian]]
 [[Ubuntu]]
 [[Arch]]
 [[manjaro]]
