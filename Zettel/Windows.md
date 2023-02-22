@@ -1,4 +1,3 @@
-# Windows
 Windows is an operating system created an maintaned by Microsoft. The world would be a bater place without it.
 
 
