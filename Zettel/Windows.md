@@ -8,3 +8,5 @@ Windows is an operating system created an maintaned by Microsoft. The world woul
 * Hibernation mode (to enable and disable):
   * powercfg.exe /hibernate off
   * powercfg.exe /hibernate on
+
+![[win-keys]]
