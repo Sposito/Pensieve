@@ -7,5 +7,7 @@ Windows is an operating system created an maintaned by Microsoft. The world woul
 * Hibernation mode (to enable and disable):
   * powercfg.exe /hibernate off
   * powercfg.exe /hibernate on
+* Trouble with virtualization and wsl on Windows 11:
+  * DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V
 
 ![[win-keys]]
