@@ -1,4 +1,6 @@
 ./obsidian/*
 .DS_Store
 Documents/*
-.obsidian/
+.obsidian
+*.mp4
+*.pdf
