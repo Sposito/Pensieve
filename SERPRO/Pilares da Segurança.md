@@ -7,7 +7,7 @@ Os 3 Pilares da Segurança da Infomração são:
 	-  A informação deve estyar disponível sempre que requisitada
 
 --- 
-Além dos 3 Pilares outros princípios possuem alta relevanica:
+Além dos 3 Pilares outros princípios possuem alta relevânica:
 
 - **Autenticidade:**  garante que individuo ou sitema é realmente quem ele alega ser
 - **Não-repúdio(Irretratabilidade)**: garante que uma vez que certa ação ou informação remetida pelo usuário for submetida, esta não possa mais ser negada.

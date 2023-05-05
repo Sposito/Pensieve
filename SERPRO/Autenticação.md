@@ -10,7 +10,7 @@ Tipos de Autenticação:
 Consiste em usas dois tipos de autenticação para elevar a segurança
 
 SSO - Single Sign On
-Através de um login você passa a ter acesso a multiplos serviços. LDAP é o principal protocolo coorporativo
+Através de um login você passa a ter acesso a múltiplos serviços. LDAP é o principal protocolo corporativo
 
 SAML - Security Assertion Mark up language
 Padrão aberto que permite compartilhamento de credencias de autorização. um bom exemplo é o Acesso.gov
@@ -21,7 +21,7 @@ Padrão aberto que permite compartilhamento de credencias de autorização. um b
 - O provedor de Serviços (SP)
 
 OAuth
-Concebido pelo Google e Twitter no ambito privado, é muito semelhante ao SAML
+Concebido pelo Google e Twitter no âmbito privado, é muito semelhante ao SAML
 
 ## Biometria
 Uso de características pessoais para a autenticação
