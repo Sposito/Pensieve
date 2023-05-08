@@ -47,7 +47,7 @@
 - 4 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais. 
 
 #### LEGISLAÇÃO ACERCA DE PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS
-- [[ 1  LGPD | Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD): Capítulos I, II, III, IV, VII, VIII e IX. ]]
+- [[LGPD| Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD): Capítulos I, II, III, IV, VII, VIII e IX. ]]
 - 2 [[Lei-12.527-2011|Lei nº 12.527 2011 (Lei de Acesso à Informação) Capítulos I, II, III, IV e V]] \[ 2/5 e 3/5\] ]]
 - 3 Lei nº 12.965/2014 (Marco Civil da Internet): Capítulos II e III, Seções I e II. 
 - 4 Decreto nº 9.637/2018 (Política Nacional de Segurança da Informação): Capítulo II. 
