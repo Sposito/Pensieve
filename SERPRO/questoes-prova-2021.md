@@ -1,4 +1,6 @@
-
+---
+tags: serpro-prova-21 
+---
   
   
 
@@ -22,10 +24,12 @@ C
 29 Embora os cargos de titulares das unidades organizacionais do SERPRO sejam, em regra, privativos de empregados integrantes do seu quadro de pessoal, o referido estatuto social admite exceções quanto à ocupação de alguns desses cargos.
 ?
 C
+<!--SR:!2023-05-11,3,250-->
 
 30 A deliberação da Assembleia Geral e do Conselho de Administração a respeito da indicação de conselheiros e diretores subordina-se à decisão do Comitê de Elegibilidade.
 ?
 E
+<!--SR:!2023-05-09,1,229-->
 
   
   
@@ -37,6 +41,7 @@ Julgue os itens seguintes, relativos a raciocínio lógico.
 31 Suponha que seja válida a seguinte proposição: P: Se Aldo não tem um número de CPF, então ele não pode viajar nem pode abrir uma empresa. Nessa situação, se Aldo pode abrir uma empresa, então ele já obteve o seu número de CPF.
 ?
 C
+<!--SR:!2023-05-12,4,270-->
 
 32 A negação da afirmação “Todos os amigos de Bianca são naturais de São Paulo” é: “Nenhum amigo de Bianca é natural de São Paulo”. CEBRASPE – SERPRO – Edital: 2021 Suponha que sejam gerados 5 números válidos de CPF para serem atribuídos a 5 indivíduos distintos. Com base nessas informações, julgue os itens seguintes.
 ?
@@ -49,10 +54,12 @@ E
 34 Suponha que, logo após a atribuição dos CPFs aos indivíduos, são escolhidos aleatoriamente 2 desses CPFs e separados 3 desses indivíduos. Nessa situação, a probabilidade de pelo menos um dos CPFs escolhidos pertencer a um dos indivíduos separados é igual a 3/5.
 ?
 E
+<!--SR:!2023-05-10,2,249-->
 
 35 Suponha que a seja o último dígito de um dos CPFs gerados, que b seja o último dígito de outro desses CPFs e que a e b sejam números ímpares consecutivos. Nessa situação, a + b é múltiplo de 4.
 ?
 C
+<!--SR:!2023-05-09,1,232-->
 
   
   
@@ -68,6 +75,7 @@ C
 37 O tratamento dos dados regulados deve atender ao princípio da adequação, o qual limita o tratamento ao mínimo necessário para a atividade.
 ?
 E
+<!--SR:!2023-05-09,1,229-->
 
 38 O tratamento de dados pessoais poderá ser realizado a pedido do próprio titular dos dados quando for necessário para a execução de contrato do qual ele seja parte.
 ?
@@ -76,6 +84,7 @@ E
 39 Consentimento é a manifestação do titular — pessoa natural ou jurídica — sobre o tratamento de seus dados para uma finalidade específica.
 ?
 E
+<!--SR:!2023-05-09,1,232-->
 
 40 Independentemente do modo como tenham sido coletados, todos os dados pessoais que estejam sob o controle dos operadores devem ser abrangidos por uma governança de privacidade.
 ?
@@ -93,6 +102,7 @@ E
 42 Uma informação que coloque em risco a soberania nacional pode ser classificada como reservada, secreta ou ultrassecreta.
 ?
 C
+<!--SR:!2023-05-11,3,269-->
 
 43 O acesso às informações solicitadas deverá ser concedido em até cinco dias úteis, a contar da data do pedido, prazo que, a interesse do órgão ou da entidade pública, poderá ser prorrogado por mais dois dias úteis.
 ?
@@ -120,6 +130,7 @@ C
 48 Informações classificadas como ultrassecretas deverão ficar com acesso restrito por vinte e cinco anos, contados a partir de sua produção.
 ?
 C
+<!--SR:!2023-05-10,2,249-->
 
 49 Em caso de infração à LGPD cometida por agente de tratamento de dados, um dos critérios para a aplicação da sanção administrativa ao infrator é a sua condição econômica.
 ?
@@ -165,7 +176,7 @@ julgue os itens a seguir.
 
 57 A contratação de seguros contra sinistros digitais é uma medida de transferência de riscos relacionados a possíveis impactos potencialmente causados por vulnerabilidades e ameaças à segurança da informação organizacional.
 ?
-TODO
+C
 
 58 De acordo com a NBR ISO/IEC 27002, as ferramentas de gerenciamento de informações de autenticação aumentam a eficácia desse controle e reduzem o impacto de uma eventual revelação de informação de autenticação secreta.
 ?
@@ -179,13 +190,15 @@ TODO
 ?
 TODO
 
-61 De acordo com a NBR ISO/IEC 27002, a política de senhas da organização deve permitir o envio de senhas de acesso em texto claro, por correio eletrônico, quando se tratar de senhas temporárias com prazo de validade definido. No que se refere a autenticação e riscos de segurança, julgue os itens subsequentes.
+61 De acordo com a NBR ISO/IEC 27002, a política de senhas da organização deve permitir o envio de senhas de acesso em texto claro, por correio eletrônico, quando se tratar de senhas temporárias com prazo de validade definido. 
 ?
-TODO
+E
+
+No que se refere a autenticação e riscos de segurança, julgue os itens subsequentes.
 
 62 Os tokens de autenticação, que podem ser dispositivos físicos ou podem existir em software, geram códigos vinculados a determinado dispositivo, usuário ou conta, que podem ser usados uma vez como parte de um processo de autenticação em um intervalo de tempo.
 ?
-TODO
+C
 
 63 No contexto de OAuth 2, o servidor de autorização deve obrigar a autenticação explícita do proprietário do recurso e prover a ele informações sobre o cliente, o escopo e a vida útil da autorização solicitada.
 ?
@@ -193,7 +206,7 @@ TODO
 
 64 Quanto aos riscos de segurança derivados da exposição de dados sensíveis contidos na lista OWASP Top 10, é recomendável que o tráfego de dados confidenciais seja criptografado e que o seu armazenamento interno seja feito sem criptografia, de modo a viabilizar as funções de auditoria dos sistemas.
 ?
-TODO
+E
 
   
 
@@ -203,7 +216,7 @@ os itens a seguir.
 
 65 Em abordagens com enfoque sistemático para a produção de componentes reutilizáveis, é conveniente disponibilizar modelos arquiteturais para aplicações a partir de um modelo de domínio.
 ?
-TODO
+C
 
 66 No modelo em cascata, dada a dificuldade natural para estabelecer todos os requisitos na fase inicial do projeto, os requisitos são definidos ao longo de todas as fases, acomodando-se gradualmente as incertezas e eventuais mudanças do projeto.
 ?
@@ -215,7 +228,7 @@ TODO
 
 68 Um dos princípios da modelagem ágil é a abstração das ferramentas que serão utilizadas para criar os modelos e suas notações particulares.
 ?
-TODO
+E
 
 69 No modelo formal, as etapas do desenvolvimento do software incluem especificação formal para definição de requisitos, refinamento para concepção de projeto e prova para a verificação. Acerca de metodologias ágeis de desenvolvimento, julgue os itens seguintes.
 ?
@@ -229,7 +242,8 @@ TODO
 
 72 Em TDD, os testes de um sistema devem ocorrer antes da implementação e ser oportunos, isolados e autoverificáveis.
 ?
-TODO
+C
+<!--SR:!2023-05-11,3,269-->
 
   
 
@@ -237,7 +251,7 @@ A respeito de servidores Apache, julgue os itens a seguir.
 
 73 Aplicando-se a configuração a seguir, é possível exibir imagens pelo servidor HTTP, desde que sejam disponibilizados os arquivos dentro do diretório /var/www/html. DocumentRoot “/var/www/html”
 ?
-TODO
+C
 
 74 A configuração ServerTokens OS é capaz de controlar informações de cabeçalho que são retornadas pelo servidor ao cliente, bem como limitar a quantidade de informações por segurança, sem fornecer a versão do servidor, mas somente o nome dele.
 ?
@@ -290,11 +304,11 @@ TODO
 
 79 O comando git checkout é capaz de copiar completamente um repositório para um diretório local.
 ?
-TODO
+E - O comando git clone faz isso
 
 80 A execução do comando git stash sem argumentos por padrão é similar à execução do comando git stash show, na medida em que ambas mostram as alterações armazenadas por este comando.
 ?
-TODO
+E
 
   
 
@@ -318,7 +332,7 @@ TODO
 
 84 É possível fazer uso da API consumer para publicar eventos em tópicos Kafka.
 ?
-TODO
+E
   
 
 Considere o seguinte conteúdo de um dockerfile.
@@ -385,13 +399,15 @@ FOREGROUND
 
 ```
 
+^b3cff4
+
   
 
 Tendo como referência essas informações, julgue os itens
 
 seguintes.
 
-85 A imagem base do container é um Red Hat Linux.
+85 A imagem base do container é um Red Hat Linux. [[questoes-prova-2021#^b3cff4|dockerfile]]
 ?
 TODO
 
@@ -420,7 +436,7 @@ TODO
 
 90 O uso de técnicas do tipo caixa-preta é adequado para avaliar a qualidade do atendimento aos requisitos não funcionais, como, por exemplo, o comportamento do sistema em relação a valores-limite.
 ?
-TODO
+C --- procurar isso
 
 91 Para a solução de problemas que surgirem no projeto do sistema, quando o contexto não estiver claro e não houver tempo para entendê-lo, devem ser adotados padrões de projeto constantes da literatura da área.
 ?
@@ -452,7 +468,7 @@ TODO
 
 97 Uma revisão por pares de um software avalia os modelos adotados na programação e os erros constantes no código, o que exige que o programa seja colocado em condições de execução próximas ao ambiente real de operação.
 ?
-TODO
+E
 
 98 Na gestão da configuração em que se observa os valores do DevOps, é importante implantar imediatamente as versões desenvolvidas no ambiente de produção, cabendo, nesse contexto, à equipe de desenvolvimento a criação de scripts automatizados para a garantia da integração contínua.
 ?
@@ -466,7 +482,7 @@ itens a seguir.
 
 99 Webservices possibilitam tanto a recuperação do estado atual de um recurso quanto a exclusão do recurso.
 ?
-TODO
+C
 
 100 A arquitetura RESTful não possibilita o uso de servidores intermediários, chamados de balanceadores de carga, razão por que o cliente sempre se conecta ao servidor final.
 ?
@@ -492,7 +508,7 @@ TODO
 
 104 Um gateway de API é utilizado entre o cliente e os serviços back-end, sendo capaz de prover estatísticas.
 ?
-TODO
+C
 
   
 
@@ -504,7 +520,8 @@ TODO
 
 106 O padrão Prototype cria novos objetos a partir da cópia de quaisquer objetos, sem aproveitar o estado do objeto copiado.
 ?
-TODO
+E
+<!--SR:!2023-05-10,2,249-->
 
   
 
@@ -536,7 +553,7 @@ TODO
 
 112 Atribuir responsabilidades para abstrações, e não para objetos, faz parte do padrão Expert.
 ?
-TODO
+E
 
 Acerca de tecnologia em nuvem, julgue os itens subsequentes.
 
@@ -552,16 +569,9 @@ TODO
 ?
 TODO
 
-116 A ideia central da computação em nuvem é possibilitar que
+116 A ideia central da computação em nuvem é possibilitar que as aplicações que rodam em datacenters isolados também rodem na nuvem (Internet) em um ambiente de larga escala e com um uso elástico de recursos.
 ?
 TODO
-
-as aplicações que rodam em datacenters isolados também
-
-rodem na nuvem (Internet) em um ambiente de larga escala
-
-e com um uso elástico de recursos.
-
   
 
 Julgue os itens a seguir, relativos a blockchain e smart contracts.
@@ -576,7 +586,7 @@ TODO
 
 119 Blockchain é uma plataforma de código aberto que foi a primeira capaz de executar a tecnologia de contratos inteligentes e aplicações descentralizadas, oferecendo confiança e consenso nas informações trocadas entre seus usuários.
 ?
-TODO
+E
 
 120 Uma característica de blockchain é o fato de que seus registros de dados são mantidos em um banco de dados distribuído e são protegidos contra adulteração e revisão até mesmo dos operadores dos nós do armazenamento de dados.
 ?
