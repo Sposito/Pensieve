@@ -1,6 +1,4 @@
-# SCP
-
-SCP, or secure copy, is a program that trasnfers archives in between networked machines troughout [[SSH]] tunneling
+SCP, or secure copy, is a program that trasnfers archives in between networked machines throughout [[SSH]] tunneling.
 
 ### Usage:
 - Pulling from remote:

@@ -1,0 +1,1 @@
+Capital do estado de Minas Gerais.

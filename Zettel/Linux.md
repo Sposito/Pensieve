@@ -5,11 +5,23 @@ Distros:
 [[Debian]]
 [[Ubuntu]]
 [[Arch]]
-[[manjaro]]
+[[Manjaro]]
+[[NixOS]]
 
-Guides:
+
+### Tools
+- [[SSH]]
+- [[SCP]]
+- [[grep]]
+- 
+### Guides:
 https://linuxize.com/post/create-a-linux-swap-file/
+#todo escrever uma página sobre [[swap]] no linux
 
-Quick tips:
+### Quick tips:
+
 ![[disable-fn-key-mac-keyboard]]
+
+[[Como resolver alertas de locale no Linux]]
+
 

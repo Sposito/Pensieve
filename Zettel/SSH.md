@@ -1,0 +1,1 @@
+SSH is a secure shell protocol that allows you connect in another systems in the network.
