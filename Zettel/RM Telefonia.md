@@ -1,3 +1,5 @@
+## __ 
+RM Telefonia é uma escola de técnica de reparo de eletrônicos em [[Belo Horizonte]].
 
-
-Atendente que fez matrícula: Fernanda
+### Notas
+1. Atendente que fez matrícula: Fernanda

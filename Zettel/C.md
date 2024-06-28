@@ -45,11 +45,38 @@ printf("%d", *(ptr + 1)); // prints 2
 - **`&`**: Obtains the address of a variable.
 - **`[]`**: Accesses elements of an array (shorthand syntax for pointer operations).
 ---
+
+## Algorithms
+### Hashes 
+
+![[Hash#_]]
+
+#### djb2
+First reported in com.lang.c
+```c
+    unsigned long
+    hash(unsigned char *str)
+    {
+        unsigned long hash = 5381;
+        int c;
+
+        while (c = *str++)
+            hash = ((hash << 5) + hash) + c; /* hash * 33 + c */
+
+        return hash;
+    }
+```
+---
+[[C#^ref2|ref2]]
+
 #### Learning Resources
-[Harvard Lecture about C](https://www.youtube.com/watch?v=URrzmoIyqLw)
+[Harvard Lecture about C](https://www.youtube.com/watch?v=URrzmoIyqLw)  ^ref1
+http://www.cse.yorku.ca/~oz/hash.html ^ref2
 
 ---
 #### Projects of Interest:
-- [Raylib](https://github.com/raysan5/raylib.git) Simple game dev libraries written in "Pure C"
+- [Raylib](https://github.com/raysan5/raylib.git) Simple game dev libraries
 - [RL Base](https://github.com/Sposito/raylib-base) Functionality written on top of Raylib for writing my own games
+- [microui](https://github.com/rxi/microui) Very simple UI framework
+- [Linux](https://kernel.org) Linux Kernel, most famous C project
 

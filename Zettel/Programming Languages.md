@@ -1,7 +1,7 @@
 ### Programming Languages List:
 
 - ![[Bash]]
-- ![[C#C]]
+- ![[C Sharp]]
 - [[C Sharp|C#]]
 - ![[C Plus Plus#C++|C++]]
 - ![[Java]]
