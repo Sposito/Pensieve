@@ -1,13 +1,13 @@
-### Programming Languages List:
+## Programming Languages List:
 
-- ![[Bash]]
-- ![[C Sharp]]
-- [[C Sharp|C#]]
-- ![[C Plus Plus#C++|C++]]
-- ![[Java]]
-- ![[Java Script]]
-- ![[Lua]]
-- ![[Python#Python]]
-- ![[Rust]]
-- ![[Zig]]
+### Bash Script ![[Bash]]
+### C ![[C#_]]
+### C# ![[C Sharp#_]]
+### C++ ![[C Plus Plus#C++|C++]]
+### Java ![[Java]]
+### JavaScript![[Java Script]]
+### Lua![[Lua]]
+#### Python ![[Python#_]]
+### Rust ![[Rust#🦀]]
+### Zig ![[Zig#_]]
 

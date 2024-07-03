@@ -1,11 +1,11 @@
-#incomplete #y1999
-# The Zen of Python
+#incomplete #y1999 
 
+---
 The Zen of [[python]] is a series of statements written by Tim Peters in 1999
-```
->>> import this
-The Zen of Python, by Tim Peters
 
+#### The Zen of Python
+by Tim Peters
+```
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
@@ -27,9 +27,11 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 
-My own take:
+### My own take:
 
 -  Beautiful is better than ugly.
 	- Code is more commonly read than written, so it is important to make it "pleasant"
 - Explicit is better than implicit.
 	- Coding is an error prone activity, expliciticity helps loads when debugging or trying to understand some piece of code.
+
+#todo

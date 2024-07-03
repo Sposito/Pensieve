@@ -1,6 +1,12 @@
-##### Python
+ ### _
+Python is a [[Programming Languages|programming language]] first released in 1991, designed by Guido van Rossum. It is dynamically typed, object oriented, imperative, garbage collected and relies on strict indentation for code semantics. It has its underling system written in [[C]] on its most popular implementation [[Python#^ref1|CPython]].
 
-Python is a programming langauge first released in 1991, designed by Guido van Rossum. It is dinamically typed, and relies on strict indentation for code semeantics. It is interpreted and has its underling system written in [[C]].
-
-##### Pip
+---
+### Pip
 Pip, its package manager, has thousands of entries, most notable of them being [[Numpy]], [[SciPy]] and [[Pandas]].
+
+---
+### Zen ![[The Zen of Python#The Zen of Python]]
+### References
+
+https://github.com/python/cpython ^ref1
