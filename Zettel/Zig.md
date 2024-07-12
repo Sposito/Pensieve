@@ -5,7 +5,7 @@ Zig is general purpose systems [[Programming Languages|programming language]] th
 ### Assignments
 In zig a value can be a constant or variable, it has an identifier(its name) and a type. Types can be inferred or explicitly annotated.
 
-```zig title="values.zig"
+```c title="values.zig"
 const some_const : i32 = -5;
 var   some_var   : u32 = 5;
 
@@ -21,7 +21,7 @@ Pointers in Zig are similar to C pointers, with the diference that they are tagg
 They follow the `*T` syntax, where T is the child type. Referencing is done by `&variable` and dereferencing is done with `variable.*`
 
 Example:
-```zig fold title=pointers.zig
+```c fold title=pointers.zig
 fn double(number: *u16) void {
     number.* *= 2;
 }

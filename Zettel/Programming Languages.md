@@ -10,4 +10,4 @@
 #### Python ![[Python#_]]
 ### Rust ![[Rust#🦀]]
 ### Zig ![[Zig#_]]
-
+### Go ![[Golang|Go]]

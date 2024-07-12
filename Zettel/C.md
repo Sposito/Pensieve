@@ -1,10 +1,11 @@
 #article
-### _
+#### _
 **C** is a high-level, general-purpose [[Programming Languages|programming language]] developed by Dennis Ritchie in the early 1970s at Bell Labs for the [[Unix]] project. Key points are performance and control over system resources, C is extensively used in system programming, operating systems, and embedded systems. Key features include portability, low-level memory access, and the ability to generate efficient machine code. It supports structured programming and provides a rich standard library. 
 C's influence extends to many modern programming languages, making it a foundational language in the field of computer science. Most inter communication between projects in different languages is done in the C ABI.
 
 ---
-## Pointers
+## The Language
+### Pointers
 - **Pointer** is a variable that stores the memory address of another variable.
 #### Symbols
 1. **`*`** (asterisk):
@@ -46,12 +47,12 @@ printf("%d", *(ptr + 1)); // prints 2
 - **`[]`**: Accesses elements of an array (shorthand syntax for pointer operations).
 ---
 
-## Algorithms
-### Hashes 
+### Algorithms
+#### Hashes 
 
 ![[Hash#_]]
 
-#### djb2
+##### djb2
 First reported in com.lang.c
 ```c
     unsigned long
