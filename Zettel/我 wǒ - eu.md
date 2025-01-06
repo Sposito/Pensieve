@@ -1,0 +1,12 @@
+Pode ser traduzido literalmente como o [[代词 dàicí - palavra substituta|代词 (Pronome)]] eu ou mim, possui variação semântica dependendo de onde na frase for usado, além do mais é uma palavra a se prestar atenção quando for usada em público, porque a super valorização do "eu" é uma característica muitas vezes vista como ligada ao individualismo ocidental em uma sociedade tradicionalmente coletivista.
+##### Pode ser encontrado:
+1. Como sujeito [[主语]]
+	**我**是学生。 (wǒ shì xuésheng) **Eu** sou estudante.
+2. Como Objeto [[宾语]]
+	他们帮助**我**。(Tāmen bāngzhù wǒ) Eles **me** ajudaram.
+3. Como possessivo [[所有格]]
+	**我的**书 (wǒ de shū) **Meu** livro
+###### Contexto cultural
+Na [[cultura chinesa]] diferente do que estamos acostumados na culturas ocidentalizadas, existe uma ênfase e um valor maior à coletividade, o individualismo é geralmente visto com maus olhos. Por isso, muitas vezes é comum ver a palavra 我 substituída por algum outro termo, como em:
+- **我们** (wǒmen) Nós, mesmo quando se está falando de sí mesmo, pra dar ideia de coletividade, por exemplo quando junto de amigos ou família falar em nome do grupo caso pareça coerente.
+- **本人** (běnrén) Esta pessoa, uma forma mais formal e humilde de dizer "eu".
