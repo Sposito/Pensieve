@@ -1,1 +1,1 @@
-NixOS is a [[Linux]] based distro build around the [[Nix]] package manager, with focus on declarative and immutlable systems.
+NixOS is a [[Linux]] based distro build around the [[Nix]] package manager, with focus on declarative and immutable systems.
