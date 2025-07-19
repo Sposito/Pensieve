@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
 import os
+import sys
 import re
+import subprocess
 
 class Validator:
     def __init__(self):
@@ -15,43 +17,45 @@ class Validator:
         self.empty_files = []
 
         for root, dirs, files in os.walk('.'):
-            # Skip private directory (private submodule)
-            if 'private' in dirs:
-                dirs.remove('private')
             for file in files:
                 if file.endswith(tuple(self.target_formats)):
-                    full_path = os.path.join(root, file)
-                    self.markdown_files[full_path] = ""
+                    self.markdown_files[os.path.join(root, file)] = ""
 
-        for path in self.markdown_files:
+        for path, _ in self.markdown_files.items():    
+            content: str = ""
+            with open(path, 'r') as file:
+                content = file.read()
+            self.markdown_files[path] = content
+            if content.strip() == "":
+                self.empty_files.append(path)
+
+    def assert_test(self, func):
+        def wrapper(*args, **kwargs):
             try:
-                with open(path, 'r', encoding='utf-8') as file:
-                    content = file.read()
-                self.markdown_files[path] = content
-                if content.strip() == "":
-                    self.empty_files.append(path)
-            except Exception as e:
-                print(f"{self.ERROR} Could not read file {path}: {e}")
+                return func(*args, **kwargs)
+            except AssertionError as e:
+                print(e)
+                return False
+        self.tests.append(wrapper)
+        return wrapper     
 
-        # Register tests
-        self.tests.append(self.check_empty_files)
-        self.tests.append(self.check_file_name)
-
+    @assert_test
     def check_empty_files(self):
-        if self.empty_files:
-            err_msg = f"{self.ERROR} Empty files found:\n" + ''.join(f"\t[empty_file]\t{x}\n" for x in self.empty_files)
-            raise AssertionError(err_msg)
+        err_msg = (
+            f"{self.ERROR} Empty files found:\n"
+            + ''.join(f"\t[empty_file]\t{x}\n" for x in self.empty_files)
+        )
+        assert len(self.empty_files) == 0, err_msg
 
+    @assert_test
     def check_file_name(self):
-        for k in self.markdown_files.keys():
-            filename = os.path.basename(k)
-            if not re.match(r'^[a-z0-9_\-\u4e00-\u9fff]+\.md$', filename):
-                raise AssertionError(f"{self.ERROR} Invalid file name: {filename}")
+        for k, _ in self.markdown_files.items():
+            assert re.match(
+                r'^[a-z0-9_-\u4e00-\u9fff]+$',
+                k
+            ), f"{self.ERROR} Invalid file name: {k}"
 
 if __name__ == "__main__":
     v = Validator()
-    for test in v.tests:
-        try:
-            test()
-        except AssertionError as e:
-            print(e)
+    for func in v.tests:
+        func()

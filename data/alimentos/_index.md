@@ -16,7 +16,7 @@ ver-tambem:
 - [[linguine-grano-duro-vilma]]
 - [[maionese-vegana-hellmanns]]
 - [[ovo-grande-vermelho]]
-- [[pão-integral-wickbold]]
+- [[pao-integral-wickbold]]
 - [[pesto-de-azeitona-e-alcachofra-madama-oliva]]
 - [[polpa-de-morango]]
 - [[shiro-misso]]
