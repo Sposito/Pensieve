@@ -1,0 +1,3 @@
+#portuguese
+
+O [[bmp]] (.bpm) surge como alternativa para simplificar e padronizar arquivos de mapa de bits, tendo como principal objetivo facilitar a intercomunicação entre dispositivos diferentes. Uma mapa de bits é basicamente um mapa matricial bi dimensional que contém individualmente e sequencialmente a informação relativa a cada pixel de uma imagem do tipo raster. O formato BPM embora suporte compressões (não muito eficientes) é geralmente utilizado sem compressão alguma, o que gera arquivos bem grandes(embora por gerar arquivos extremamente redundantes possa ser eficientemente comprimido por programas do tipo zip ou rar). Este formato foi muito utilizado nas interfaces gráficas de SO antigos. 

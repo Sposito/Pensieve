@@ -1,2 +1,0 @@
-
-#incomplete ![[tst fig.png]]

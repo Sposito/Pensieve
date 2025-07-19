@@ -1,0 +1,2 @@
+# _
+C# is a general-purpose, statically-typed, [[OOP| object oriented]]  [[programming-languages|programming language]] developed by [[Microsoft]] in response to [[Java]]. It syntax borrows much from Java and by consequence belongs to the [[c]] family. Later new paradigms where introduced such as [[Functional Programming|functional]], event driven, reflective. It is intended to run on the .Net runtime (akin the JVM). It was first target to [[windows]] environments but later efforts like [[Mono]], [[Xamarin]] and DotNet Core steered it towards multi-platform.

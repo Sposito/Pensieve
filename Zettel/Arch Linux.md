@@ -1,1 +1,0 @@
-Arch Linux is a [[Linux]] distro developed by its community with focus on cutting edge package and user control.

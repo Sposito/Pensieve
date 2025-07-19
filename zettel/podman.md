@@ -1,0 +1,1 @@
+Similar to [[docker]] (and compatible), podman is a free and open source alternative for it. It enables user space containarization.

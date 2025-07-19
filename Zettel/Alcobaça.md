@@ -1,5 +1,0 @@
-
-Taxi:
-
-
-![[CC816E85-E97F-4AD3-B112-FCFA2DDCB0B7.jpeg]]
