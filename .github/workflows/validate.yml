@@ -1,0 +1,46 @@
+name: Validate Markdown Files
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  validate-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+        
+      - name: log python version
+        run: python --version >> test.log
+        
+      - name: Run Validator and Check for Errors
+        run: |
+          # Run validator and capture output and exit code
+          output=$(python scripts/validator.py 2>&1)
+          exit_code=$?
+          
+          # Log the output
+          echo "$output" >> test.log
+          
+          # Check for validation errors
+          if echo "$output" | grep -q "ERROR"; then
+            echo "Validation errors found:"
+            echo "$output"
+            exit 1
+          elif [ $exit_code -ne 0 ]; then
+            echo "Validator failed with exit code $exit_code"
+            echo "$output"
+            exit 1
+          else
+            echo "All markdown files are valid!"
+          fi
