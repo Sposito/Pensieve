@@ -15,6 +15,9 @@ class Validator:
         self.empty_files = []
 
         for root, dirs, files in os.walk('.'):
+            # Skip private directory (private submodule)
+            if 'private' in dirs:
+                dirs.remove('private')
             for file in files:
                 if file.endswith(tuple(self.target_formats)):
                     full_path = os.path.join(root, file)
