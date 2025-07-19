@@ -1,3 +1,5 @@
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/sposito/Pensieve/validate.yml?style=flat-square&label=format)
+
 # Pensieve
 Here we will find a collection of thoughts of mine I believe are worth storing, relating and sharing. I am currently using [[Obsidian]] as the main form of editing and maintaining it, although it is all markdown text in the end so it is easy to migrate wherever I feel like moving in the future. I am somewhat following the [Zettel](https://en.wikipedia.org/wiki/Zettelkasten) knowledge management.
 
