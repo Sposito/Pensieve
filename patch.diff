@@ -1,0 +1,30 @@
+--- a/scripts/validator.py
++++ b/scripts/validator.py
+@@ class Validator:
+-    def assert_test(self, func):
++    @staticmethod
++    def assert_test(func):
+         def wrapper(*args, **kwargs):
+             try:
+                 return func(*args, **kwargs)
+             except AssertionError as e:
+                 print(e)
+                 return False
+-        self.tests.append(wrapper)
+         return wrapper     
+
+@@ class Validator:
+     def __init__(self):
+         ...
+         for path, _ in self.markdown_files.items():    
+             ...
+             if content.strip() == "":
+                 self.empty_files.append(path)
++        # register our two tests now that methods exist
++        self.tests.append(self.check_empty_files)
++        self.tests.append(self.check_file_name)
+
+@@ if __name__ == "__main__":
+-    for func in v.tests.values():
++    for func in v.tests:
+         func()

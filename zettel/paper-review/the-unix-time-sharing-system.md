@@ -3,7 +3,7 @@
 # The UNIX Time-Sharing System Review
 
 ## Introduction
-The [[Unix]] Time-Sharing System written in 1974 about 4 or 5 years down the first functional version of Unix is a nice and fair reflection from Dennis Richie Ken Thompson about the system key strengths and capabilities namely its file system, process management and the shell. It is a very fortunate reading at the beginning of an Operational Systems discipline as time has proved it so fundamental for the field in the years to come.
+The [[unix]] Time-Sharing System written in 1974 about 4 or 5 years down the first functional version of Unix is a nice and fair reflection from Dennis Richie Ken Thompson about the system key strengths and capabilities namely its file system, process management and the shell. It is a very fortunate reading at the beginning of an Operational Systems discipline as time has proved it so fundamental for the field in the years to come.
 
 
 ## Summary
