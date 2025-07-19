@@ -2,7 +2,7 @@
 ### [[2024-03-28|Semana 1]]
 ![[Metodologia da Pesquisa e do Trabalho Científico]]
 ### [[2024-04-01|Semana 2]]
-![[Engenharia e Qualidade de Software]]
+![[engenharia-e-qualidade-de-software]]
 ### [[2024-04-08|Semana 3]]
 ![[posdb-distributed-db]]
 ### [[2024-04-15|Semana 4]]

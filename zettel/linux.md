@@ -1,5 +1,5 @@
 # _
-Linux is an [[Unix]] based operating system [[linux-kernel|kernel]] created by [[linus-torvalds|Linus Torvalds]]
+Linux is an [[unix]] based operating system [[linux-kernel|kernel]] created by [[linus-torvalds|Linus Torvalds]]
 
 Distros:
 	[[Fedora]]

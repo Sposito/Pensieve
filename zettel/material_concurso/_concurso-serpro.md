@@ -47,8 +47,8 @@
 - 4 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais. 
 
 #### LEGISLAÇÃO ACERCA DE PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS
-- [[LGPD| Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD): Capítulos I, II, III, IV, VII, VIII e IX. ]]
-- 2 [[Lei-12.527-2011|Lei nº 12.527 2011 (Lei de Acesso à Informação) Capítulos I, II, III, IV e V]] \[ 2/5 e 3/5\] ]]
+- [[lgpd| Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD): Capítulos I, II, III, IV, VII, VIII e IX. ]]
+- 2 [[lei-12527-2011|Lei nº 12.527 2011 (Lei de Acesso à Informação) Capítulos I, II, III, IV e V]] \[ 2/5 e 3/5\] ]]
 - 3 Lei nº 12.965/2014 (Marco Civil da Internet): Capítulos II e III, Seções I e II. 
 - 4 Decreto nº 9.637/2018 (Política Nacional de Segurança da Informação): Capítulo II. 
 - 5 Lei nº 12.737/2012 (Lei de Delitos Informáticos): art. 2º. 
@@ -74,9 +74,9 @@
 	- 7 OWASP Top 10
 
 ### Segurança da Informação
-- [[Pilares da Segurança]] \[2/5\]
-- [[Segurança de Redes]] \[2/5\]
-- [[Autenticação]] \[2/5\]
+- [[pilares-da-seguranca]] \[2/5\]
+- [[seguranca-de-redes]] \[2/5\]
+- [[autenticacao]] \[2/5\]
 - 
 ## Calendário de Estudos
 

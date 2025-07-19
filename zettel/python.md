@@ -6,7 +6,7 @@ Python is a [[programming-languages|programming language]] first released in 199
 Pip, its package manager, has thousands of entries, most notable of them being [[numpy]], [[SciPy]] and [[Pandas]].
 
 ---
-### Zen ![[The Zen of Python#The Zen of Python]]
+### Zen ![[the-zen-of-python#The Zen of Python]]
 ### References
 
 https://github.com/python/cpython ^ref1

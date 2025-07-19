@@ -3,10 +3,10 @@ Advanced Operating Systems
 
 ### Articles Reviwed
 - [[the-unix-time-sharing-system]]
-- [[The-Evolution-of-the-Unix-Time-sharing-System]]
+- [[the-evolution-of-the-unix-time-sharing-system]]
 - [[Exokernel: An Operating System Architecture for Application-Level Resource Management ]]
 - [[xen-and-the-art-of-virtualization]]
-- [[The Singularity System]]
+- [[the-singularity-system]]
 - [[serverless-computing-with-open-lambda]]
 - [[scheduler-activations]]
 - [[lottery-scheduling]]

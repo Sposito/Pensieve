@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The following review from "The Evolution of the Unix Time-sharing System"\cite{ritchie1979evolution} is a posterior revisiting in the early years of the Unix system. Unlike the previously read article that presented the system formally, we have here a quick peek at the early days of the [[Unix]] system, particularly the social and material circumstances around its creation and how it impacted the system we know today.
+The following review from "The Evolution of the Unix Time-sharing System"\cite{ritchie1979evolution} is a posterior revisiting in the early years of the Unix system. Unlike the previously read article that presented the system formally, we have here a quick peek at the early days of the [[unix]] system, particularly the social and material circumstances around its creation and how it impacted the system we know today.
 
  
 ## Summary
